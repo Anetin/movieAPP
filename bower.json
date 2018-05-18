@@ -1,0 +1,22 @@
+{
+  "name": "node-movie",
+  "authors": [
+    "Devins <1012886343@qq.com>"
+  ],
+  "description": "movieManage",
+  "main": "appjs",
+  "license": "MIT",
+  "homepage": "/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.*.*",
+    "jquery": "^3.3.1"
+  }
+}

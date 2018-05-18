@@ -1,0 +1,20 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "moment": "^2.22.1",
+    "mongoose": "^5.1.1",
+    "underscore": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Devin",
+  "license": "ISC"
+}
